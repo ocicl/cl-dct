@@ -1,0 +1,10 @@
+* cl-dct
+
+Discrete cosine transform in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/belambert/cl-dct.git   |
+| commit  | {"messa  |
+| systems | cl-dct |
+|---------+-------------------------------------------|
+
