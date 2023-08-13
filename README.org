@@ -2,9 +2,8 @@
 
 Discrete cosine transform in Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/belambert/cl-dct.git   |
-| commit  | d82f0f4  |
-| systems | cl-dct |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/belambert/cl-dct.git |
+| commit  | d82f0f4                                     |
+| systems | (dct)                                       |
+|---------+---------------------------------------------|
