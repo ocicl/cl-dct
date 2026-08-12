@@ -7,4 +7,4 @@ Discrete cosine transform in Common Lisp.
 | commit  | d82f0f4                                     |
 | systems | dct                                         |
 |---------+---------------------------------------------|
- 
+  
